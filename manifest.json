@@ -1,14 +1,11 @@
 {
-	".gitignore" : { "filesize" : 482, "filetime" : 1643598505 },
 	"app/main.rb" : { "filesize" : 3808, "filetime" : 1643598505 },
 	"app/repl.rb" : { "filesize" : 9496, "filetime" : 1643598505 },
 	"app/tests.rb" : { "filesize" : 781, "filetime" : 1643598505 },
 	"console-logo.png" : { "filesize" : 25034, "filetime" : 1643598506 },
-	"data/.gitkeep" : { "filesize" : 40, "filetime" : 1643598505 },
 	"dragonruby-controller.png" : { "filesize" : 32688, "filetime" : 1643598506 },
 	"dragonruby.png" : { "filesize" : 14417, "filetime" : 1643598506 },
 	"font.ttf" : { "filesize" : 3146844, "filetime" : 1643598506 },
-	"fonts/.gitkeep" : { "filesize" : 27, "filetime" : 1643598505 },
 	"metadata/animal.png" : { "filesize" : 16982, "filetime" : 1643598505 },
 	"metadata/DRAGONRUBY_PRODUCTION_BUILD" : { "filesize" : 0, "filetime" : 1643598506 },
 	"metadata/game_metadata.txt" : { "filesize" : 95, "filetime" : 1643598505 },
@@ -16,7 +13,6 @@
 	"metadata/ios_metadata.txt" : { "filesize" : 923, "filetime" : 1643598505 },
 	"open-source-licenses.txt" : { "filesize" : 31629, "filetime" : 1643598506 },
 	"README.md" : { "filesize" : 93, "filetime" : 1643598505 },
-	"sounds/.gitkeep" : { "filesize" : 21, "filetime" : 1643598505 },
 	"sprites/animal.png" : { "filesize" : 16982, "filetime" : 1643598505 },
 	"sprites/border-black.png" : { "filesize" : 908, "filetime" : 1643598505 },
 	"sprites/circle/black.png" : { "filesize" : 2511, "filetime" : 1643598505 },
@@ -156,5 +152,4 @@
 	"sprites/triangle/equilateral/red.png" : { "filesize" : 3043, "filetime" : 1643598506 },
 	"sprites/triangle/equilateral/violet.png" : { "filesize" : 3049, "filetime" : 1643598506 },
 	"sprites/triangle/equilateral/yellow.png" : { "filesize" : 2766, "filetime" : 1643598506 },
-	"" : {}
 }

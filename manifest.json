@@ -152,4 +152,5 @@
 	"sprites/triangle/equilateral/red.png" : { "filesize" : 3043, "filetime" : 1643598506 },
 	"sprites/triangle/equilateral/violet.png" : { "filesize" : 3049, "filetime" : 1643598506 },
 	"sprites/triangle/equilateral/yellow.png" : { "filesize" : 2766, "filetime" : 1643598506 },
+	"" : {}
 }

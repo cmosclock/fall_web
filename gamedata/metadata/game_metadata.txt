@@ -1,0 +1,6 @@
+devid=fall
+devtitle=fall
+gameid=fall
+gametitle=fall
+version=0.1
+icon=metadata/animal.png
